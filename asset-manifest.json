@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ibaco/static/css/main.bbca655c.css",
+    "main.css": "/ibaco/static/css/main.0d0fc9b8.css",
     "main.js": "/ibaco/static/js/main.9cf840ab.js",
     "static/media/Ibaco-Whats-New-Beligian-Banner-New.jpg": "/ibaco/static/media/Ibaco-Whats-New-Beligian-Banner-New.348ccd6ab37396e9345e.jpg",
     "static/media/Ibaco-Whats-New-Coffee-Banner-New.jpg": "/ibaco/static/media/Ibaco-Whats-New-Coffee-Banner-New.60d5a6aa27000a5a2ff8.jpg",
@@ -11,11 +11,11 @@
     "static/media/about-background-image.avif": "/ibaco/static/media/about-background-image.e10bc383ede6b78010dc.avif",
     "static/media/ibaco-logo-new.png": "/ibaco/static/media/ibaco-logo-new.b0d15684c59208216653.png",
     "index.html": "/ibaco/index.html",
-    "main.bbca655c.css.map": "/ibaco/static/css/main.bbca655c.css.map",
+    "main.0d0fc9b8.css.map": "/ibaco/static/css/main.0d0fc9b8.css.map",
     "main.9cf840ab.js.map": "/ibaco/static/js/main.9cf840ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbca655c.css",
+    "static/css/main.0d0fc9b8.css",
     "static/js/main.9cf840ab.js"
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ibaco/static/css/main.bbca655c.css",
+    "main.js": "/ibaco/static/js/main.4836f083.js",
+    "static/media/Ibaco-Whats-New-Beligian-Banner-New.jpg": "/ibaco/static/media/Ibaco-Whats-New-Beligian-Banner-New.348ccd6ab37396e9345e.jpg",
+    "static/media/Ibaco-Whats-New-Coffee-Banner-New.jpg": "/ibaco/static/media/Ibaco-Whats-New-Coffee-Banner-New.60d5a6aa27000a5a2ff8.jpg",
+    "static/media/ice-cream-cakes.png": "/ibaco/static/media/ice-cream-cakes.a3b503af5187f8439f7e.png",
+    "static/media/ice-cream-scoops.png": "/ibaco/static/media/ice-cream-scoops.02106d6bf3a2b7abe39c.png",
+    "static/media/icecream-shakes-banner-new.png": "/ibaco/static/media/icecream-shakes-banner-new.1430da531994c1d48854.png",
+    "static/media/Icecream-cones-banner.png": "/ibaco/static/media/Icecream-cones-banner.42fe8321b9c10cfe6d63.png",
+    "static/media/about-background-image.avif": "/ibaco/static/media/about-background-image.e10bc383ede6b78010dc.avif",
+    "static/media/ibaco-logo-new.png": "/ibaco/static/media/ibaco-logo-new.b0d15684c59208216653.png",
+    "index.html": "/ibaco/index.html",
+    "main.bbca655c.css.map": "/ibaco/static/css/main.bbca655c.css.map",
+    "main.4836f083.js.map": "/ibaco/static/js/main.4836f083.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbca655c.css",
+    "static/js/main.4836f083.js"
+  ]
+}
